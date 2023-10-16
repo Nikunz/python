@@ -6,10 +6,8 @@ dependencies required
 
 ```
 pip install numpy, tensorflow, keras, pillow,
-
 ```
   - win32 gui
 ```
 pip install pywin32
-
 ```
